@@ -1,0 +1,5 @@
+{
+  "name": "Hotel Verification Agent",
+  "description": "Verify real-time hotel availability and booking status across multiple sites with browser-agent evidence.",
+  "requestFramePermissions": []
+}
